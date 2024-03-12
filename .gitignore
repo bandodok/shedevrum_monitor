@@ -1,0 +1,5 @@
+.venv
+.vscode
+build/*
+dist/*
+__pycache__
